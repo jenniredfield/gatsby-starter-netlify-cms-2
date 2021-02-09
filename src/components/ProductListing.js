@@ -8,9 +8,9 @@ export class ProductListing extends React.Component {
   render() {
       console.log('prop', this.props.data);
     return (
-      <Layout>
-
-      </Layout>
+        <div>
+            <p>Hellow</p>
+        </div>
     )
   }
 }

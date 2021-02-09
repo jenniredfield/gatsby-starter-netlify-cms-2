@@ -6,9 +6,9 @@ import Layout from '../components/Layout'
 const ProductListingTemplate = ({ data }) => {
 
   return (
-    <Layout>
+    <div>
         <h1>Hello Product Listing</h1>
-    </Layout>
+    </div>
   )
 }
 

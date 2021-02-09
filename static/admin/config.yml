@@ -68,6 +68,7 @@ collections:
   - name: "productListing"
     label: "ProductListing"
     folder: "src/pages/productListing"
+    format: "json"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
