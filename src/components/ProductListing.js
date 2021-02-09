@@ -1,6 +1,7 @@
 import React from 'react'
 
-import Layout from '../../components/Layout'
+import Layout from './Layout'
+import { graphql, StaticQuery } from 'gatsby'
 
 
 export class ProductListing extends React.Component {

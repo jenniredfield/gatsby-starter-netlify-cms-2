@@ -4,7 +4,7 @@ import Layout from '../../components/Layout'
 import ProductListing from '../../components/ProductListing'
 
 
-export class ProductListing extends React.Component {
+export default class ProductListingIndex extends React.Component {
   render() {
 
     return (
